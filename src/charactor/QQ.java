@@ -33,7 +33,7 @@ public class QQ {
         String s1 = null;//s1为要发送消息的QQ对象
         String url = null;//url为唤起聊天窗口的链接
         String cmd = null;//cmd中执行语句
-        String str = "别敲了\n"+"\n"+"敲代码有打游戏有趣?"+"\n"+"求你了别敲了";
+        String str = "韩ly\n"+"\n"+"520"+"\n"+"1314";
 
         while (true) {
             if (1 == i1) {
