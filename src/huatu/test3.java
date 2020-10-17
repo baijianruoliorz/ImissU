@@ -14,7 +14,12 @@ public class test3 {
         for (int i = 0; i < 10; i++) {
             ints[i]=i;
         }
+//        变成了stirng类型
         System.out.println(Arrays.toString(ints));
+        String a="sadas";
+        a+=1;
+//        这样也可以变成string,但是go语言中不允许直接转化 需要strconv
+        String s=1+"0";
 
     }
 
